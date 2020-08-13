@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ToDo/static/css/main.5412cd93.chunk.css",
+    "main.js": "/ToDo/static/js/main.88ac6890.chunk.js",
+    "main.js.map": "/ToDo/static/js/main.88ac6890.chunk.js.map",
+    "runtime-main.js": "/ToDo/static/js/runtime-main.dcd29f79.js",
+    "runtime-main.js.map": "/ToDo/static/js/runtime-main.dcd29f79.js.map",
+    "static/js/2.9f025a28.chunk.js": "/ToDo/static/js/2.9f025a28.chunk.js",
+    "static/js/2.9f025a28.chunk.js.map": "/ToDo/static/js/2.9f025a28.chunk.js.map",
+    "index.html": "/ToDo/index.html",
+    "precache-manifest.282cf77bfbeb67707d9596b8087f0738.js": "/ToDo/precache-manifest.282cf77bfbeb67707d9596b8087f0738.js",
+    "service-worker.js": "/ToDo/service-worker.js",
+    "static/css/main.5412cd93.chunk.css.map": "/ToDo/static/css/main.5412cd93.chunk.css.map",
+    "static/js/2.9f025a28.chunk.js.LICENSE.txt": "/ToDo/static/js/2.9f025a28.chunk.js.LICENSE.txt",
+    "static/media/A.png": "/ToDo/static/media/A.dd52ff34.png",
+    "static/media/abt.png": "/ToDo/static/media/abt.54320817.png",
+    "static/media/angularjs.png": "/ToDo/static/media/angularjs.7522e426.png",
+    "static/media/covid.jpg": "/ToDo/static/media/covid.f3b0dbc4.jpg",
+    "static/media/insure.jpg": "/ToDo/static/media/insure.3180a1fa.jpg",
+    "static/media/js.png": "/ToDo/static/media/js.b502449e.png",
+    "static/media/logo.svg": "/ToDo/static/media/logo.5d5d9eef.svg",
+    "static/media/memory.png": "/ToDo/static/media/memory.8afa85b9.png",
+    "static/media/node.png": "/ToDo/static/media/node.9100f2eb.png",
+    "static/media/proj.png": "/ToDo/static/media/proj.9084ee0f.png",
+    "static/media/quiz.jpg": "/ToDo/static/media/quiz.63827264.jpg",
+    "static/media/repo.png": "/ToDo/static/media/repo.893ec818.png",
+    "static/media/skill.png": "/ToDo/static/media/skill.4e4ba1f6.png",
+    "static/media/tictac.jpg": "/ToDo/static/media/tictac.10bff956.jpg",
+    "static/media/todo.jpg": "/ToDo/static/media/todo.10d0da7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd29f79.js",
+    "static/js/2.9f025a28.chunk.js",
+    "static/css/main.5412cd93.chunk.css",
+    "static/js/main.88ac6890.chunk.js"
+  ]
+}
